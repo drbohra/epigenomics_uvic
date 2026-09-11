@@ -1,0 +1,2 @@
+ENCFF287UHP	sigmoid_colon	pseudoreplicated_peaks
+ENCFF762IFP	stomach	pseudoreplicated_peaks
