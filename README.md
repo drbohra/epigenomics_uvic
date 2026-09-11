@@ -11,4 +11,4 @@ Task 5 – Distal regulatory element analysis
 
 The repository includes the analysis code, output files, plots, and the completed `get.distance.py` script.
 
-Wreiteup of Response contains code and response as asked
+Writeup of Response contains code and response as asked
